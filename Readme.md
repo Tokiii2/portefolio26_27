@@ -1,1 +1,3 @@
-Primeiro exercicio
+Primeiro exercicio usando Git
+
+Segundo exercicio
